@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://explorenepalvibes.blogspot.com/2026/01/ultimate-sagarmatha-national-park.html</loc>
+    <lastmod>2026-01-20T06:13:06Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://explorenepalvibes.blogspot.com/2026/01/7-day-chitwan-jungle-safari-adventure.html</loc>
+    <lastmod>2026-01-20T04:33:28Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://explorenepalvibes.blogspot.com/2026/01/kathmandu-private-7-unesco-world.html</loc>
+    <lastmod>2026-01-19T09:15:05Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://explorenepalvibes.blogspot.com/2026/01/paragliding-in-pokhara-with-hotel.html</loc>
+    <lastmod>2026-01-19T09:14:31Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://explorenepalvibes.blogspot.com/2026/01/kathmandu-to-rara-lake-tour-package-3.html</loc>
+    <lastmod>2026-01-19T09:13:59Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://explorenepalvibes.blogspot.com/2026/01/9d8n-annapurna-sanctuary-trek-from.html</loc>
+    <lastmod>2026-01-19T09:13:40Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://explorenepalvibes.blogspot.com/2026/01/everest-base-camp-ebc-10-day-trek.html</loc>
+    <lastmod>2026-01-19T09:13:22Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://explorenepalvibes.blogspot.com/2026/01/pokhara-full-day-7-iconic-sites-tour.html</loc>
+    <lastmod>2026-01-19T09:12:47Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://explorenepalvibes.blogspot.com/2026/01/pokhara-mardi-himal-trek.html</loc>
+    <lastmod>2026-01-19T09:12:32Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://explorenepalvibes.blogspot.com/2026/01/kanchenjunga-north-base-camp-trek.html</loc>
+    <lastmod>2026-01-19T09:12:09Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://explorenepalvibes.blogspot.com/2026/01/chandragiri-cable-car-monkey-temple.html</loc>
+    <lastmod>2026-01-19T09:11:55Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://explorenepalvibes.blogspot.com/2026/01/everest-base-camp-trek.html</loc>
+    <lastmod>2026-01-19T09:11:31Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
